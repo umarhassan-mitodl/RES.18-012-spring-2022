@@ -1,0 +1,5 @@
+leftnav:
+- identifier: f78859a1-11a5-4c4a-b475-1fc4bfaa6f86
+  name: Student Notes
+  pageRef: /pages/student-notes
+  weight: 10
