@@ -20,9 +20,9 @@
     "website": "algebra-ii-student-notes"
   },
   "course_title": "Algebra II Student Notes",
-  "hide_download": true,
+  "hide_download": false,
   "mit_learn_topics": [],
-  "course_description": "Algebra II is the second semester of a year-long introduction to modern algebra. The course focuses on group representations, rings, ideals, fields, polynomial rings, modules, factorization, integers in quadratic number fields, field extensions, and Galois theory.\n\nThese notes, which were created by students in a recent on-campus 18.702 Algebra II class, are offered here to supplement the materials included in OCW\u2019s\u00a0[version of 18.702](https://ocw.mit.edu/courses/18-702-algebra-ii-spring-2011/). They have not been checked for accuracy by the instructors of that class or by other MIT faculty members.",
+  "course_description": "Algebra II is the second semester of a year-long introduction to modern algebra. The course focuses on group representations, rings, ideals, fields, polynomial rings, modules, factorization, integers in quadratic number fields, field extensions, and Galois theory.\n\nThese notes, which were created by students in a recent on-campus 18.702 Algebra II class, are offered here to supplement the materials included in OCW\u2019s\u00a0{{% resource_link \"1d8f874d-9795-4fc4-84fd-377134269a97\" \"version of 18.702\" %}}. They have not been checked for accuracy by the instructors of that class or by other MIT faculty members.",
   "department_numbers": [
     "18"
   ],
@@ -32,7 +32,6 @@
     "content": "0e4d9b55-f38f-4445-a2b2-f6ca3865f279",
     "website": "algebra-ii-student-notes"
   },
-  "hide_download_original": false,
   "learning_resource_types": [
     "Lecture Notes"
   ],
