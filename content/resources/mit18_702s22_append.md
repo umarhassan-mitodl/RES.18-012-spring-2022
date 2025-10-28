@@ -5,8 +5,6 @@ draft: false
 file: /courses/res-18-012-algebra-ii-student-notes-spring-2022/mit18_702s22_append.tex
 file_size: 6995
 file_type: text/x-tex
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''
